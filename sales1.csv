@@ -1,4 +1,4 @@
-Order ID,Date,Customer,Product,Quantity,Unit Price,Total Sales
+Order,Date,Customer,Product,Quantity,Unit Price,Total Sales
 1001,2024-01-15,John,Laptop,2,899.99,1799.98
 1002,2024-01-16,Sarah,Smartphone,1,599.99,599.99
 1003,2024-01-18,Mike,Headphones,3,79.99,239.97

@@ -1,0 +1,11 @@
+Order ID,Date,Customer,Product,Quantity,Unit Price,Total Sales
+1001,2024-01-15,John,Laptop,2,899.99,1799.98
+1002,2024-01-16,Sarah,Smartphone,1,599.99,599.99
+1003,2024-01-18,Mike,Headphones,3,79.99,239.97
+1004,2024-01-20,Emma,Tablet,1,349.99,349.99
+1005,2024-01-22,David,Smart Watch,2,199.99,399.98
+1006,2024-01-25,Lisa,Laptop,1,1299.99,1299.99
+1007,2024-01-27,Tom,Smartphone,2,699.99,1399.98
+1008,2024-01-30,Anna,Headphones,1,129.99,129.99
+1009,2024-02-02,Chris,Tablet,2,449.99,899.98
+1010,2024-02-05,Rachel,Smart Watch,1,249.99,249.99
